@@ -1,2 +1,2 @@
 # COMP593-Lab 1
- Learning about Git and GiHUB
+ Learning about Git and GitHub
